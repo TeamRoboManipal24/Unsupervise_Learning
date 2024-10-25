@@ -3,7 +3,7 @@
 Task: Learn About the following topics in depth
 - SVM (Support Vector Machine)
 - PCA (Principle Component Analysis)
-- Decision Trees
+- Decision Trees (Random Forest, Bagging Boosting)
 - Clustering (K-Means & DB Scan)
 
 Implement the below in CODE
