@@ -1,4 +1,4 @@
-# Unsupervise_Learning
+# Unsupervised_Learning
 
 Task: Learn About the following topics in depth
 - SVM (Support Vector Machine)
@@ -6,7 +6,8 @@ Task: Learn About the following topics in depth
 - Decision Trees
 - Clustering (K-Means & DB Scan)
 
-  Implement K-Means clustering ( Use of Libraries like Scikit-Learn is allowed)
+Implement the below in CODE
+  Implement K-Means clustering (Use of Libraries like Scikit-Learn is allowed)
   Use the same dataset used for logistic regression. Perform K-means clustering to cluster the data. Come up with the number of clusters using the elbow method. After fitting a model print out the centers and try to intuitively explain them. Try to visualize the clusters if possible.
 
   Learning Resources:
