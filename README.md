@@ -14,6 +14,7 @@ Implement the below in CODE
 
 All tasks to be done using Jupyter Notebook
 
+BONUS TASK: Implement K-Means from scratch
 
   Learning Resources:
 
