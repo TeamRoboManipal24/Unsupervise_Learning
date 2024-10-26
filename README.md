@@ -6,6 +6,9 @@ Task: Learn About the following topics in depth
 - Decision Trees (Random Forest, Bagging Boosting)
 - Clustering (K-Means & DB Scan)
 
+Write a Report on the above topics, minimum 1 page for each topic, make sure you understand the material properly
+
+
 Implement the below in CODE
 
   Implement K-Means clustering (Use of Libraries like Scikit-Learn is allowed)
