@@ -11,6 +11,10 @@ Implement the below in CODE
   Implement K-Means clustering (Use of Libraries like Scikit-Learn is allowed)
   Use the same dataset used for logistic regression. Perform K-means clustering to cluster the data. Come up with the number of clusters using the elbow method. After fitting a model print out the centers and try to intuitively explain them. Try to visualize the clusters if possible.
 
+
+All tasks to be done using Jupyter Notebook
+
+
   Learning Resources:
 
 https://medium.com/machine-learning-for-humans/supervised-learning-3-b1551b9c4930
